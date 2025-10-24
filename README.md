@@ -6,7 +6,7 @@
 </h3>
 
 
-![Banner Image](Linkedin banner.jpg)
+![Banner Image](Linkedin-banner.jpg)
 
 ---
 

@@ -61,16 +61,17 @@
 ## How to Reach Me 📬
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fidel-adar" target="_blank">
+  <a href="https://www.linkedin.com/in/fidel-adar" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ad4rtech" target="_blank">
+  <a href="https://github.com/ad4rtech" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:fideladar.ogw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
 ---
 

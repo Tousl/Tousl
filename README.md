@@ -6,7 +6,7 @@
 </h3>
 
 
-![Banner Image](https://www.pinterest.com/pin/108930884731643766/)
+![Banner Image](Linkedin banner.jpg)
 
 ---
 

@@ -39,7 +39,8 @@
 <td width="70%">
 
 Hi there! 👋 I’m **Fidel Adar**, a **Junior Frontend Developer** and **Network Administration Enthusiast** who’s passionate about building beautiful, responsive, and efficient web interfaces.  
-I love blending creativity with logic — turning complex ideas into clean, user-friendly designs.  
+I love blending creativity with logic turning complex ideas into clean, user-friendly designs. 
+<br>
 Outside coding, I’m intrigued by **network systems**, **cloud infrastructure**, and **internet connectivity** that make the web possible.  
 I’m continuously learning, experimenting, and striving to become a better developer every day. 🚀
 
@@ -53,7 +54,7 @@ I’m continuously learning, experimenting, and striving to become a better deve
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fidel-adar)  
 [![GitHub](https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github)](https://github.com/ad4rtech)  
-[![Gmail](https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:fideladar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:fideladar.ogw@gmail.com)
 
 ---
 

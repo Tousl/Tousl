@@ -87,7 +87,9 @@
 
 ---
 
-## ⚙️ Frontend Development Tools
+## 🧰 My Arsenal
+
+### ⚙️ Frontend Development
 
 | Tool | Description |
 |------|--------------|
@@ -95,17 +97,19 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Markup Language |
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling Language |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility CSS Framework |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-First CSS Framework |
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UI/UX Design Tool |
 
 ---
 
-## 🌐 Network Administration Tools
+### 🌐 Network Administration
 
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</p>
 
----
 
 ## Featured Projects 💻
 

@@ -89,26 +89,35 @@
 
 ## 🧰 My Arsenal
 
-### ⚙️ Frontend Development
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-| Tool | Description |
-|------|--------------|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version Control |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Markup Language |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling Language |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-First CSS Framework |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UI/UX Design Tool |
+      <h3>⚙️ Frontend Development Tools</h3>
 
----
+      | Tool | Description |
+      |------|--------------|
+      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version Control |
+      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code Hosting |
+      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Markup Language |
+      | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling Language |
+      | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-First CSS Framework |
+      | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UI/UX Design Tool |
 
-### 🌐 Network Administration
+    </td>
+    <td valign="top" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</p>
+      <h3>🌐 Network Administration Tools</h3>
+
+      | Tool | Description |
+      |------|--------------|
+      | ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Networking Fundamentals & CCNA Concepts |
+      | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | Cloud Infrastructure & Services |
+
+    </td>
+  </tr>
+</table>
+
 
 
 ## Featured Projects 💻

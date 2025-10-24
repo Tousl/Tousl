@@ -13,14 +13,10 @@
   </td>
   <td width="45%" align="left" valign="middle">
 
-  <h3>🌱 Currently Learning</h3>
-  <p><strong>Tailwind CSS</strong>, <strong>SASS/SCSS</strong>, <strong>TypeScript</strong></p>
-
-  <h3>🔭 Working On</h3>
-  <p><strong>Airbnb Clone Project</strong></p>
-
-  <h3>🌍 Languages</h3>
-  <p><strong>English</strong> & <strong>Kiswahili</strong></p>
+- 🌱 Currently learning: **TailWind CSS,SASS/SCSS,TypeScript**
+- 🔭 Working on: **AirBnb Clone Project**
+- 🌍 Languages: **English & Kiswahili**
+- 📫 How to reach me: **adarfidel.ogw@gmail.com**
 
   </td>
 </tr>

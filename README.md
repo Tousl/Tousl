@@ -42,7 +42,7 @@
   <strong>Network Administration Enthusiast</strong> who’s passionate about building beautiful, responsive, 
   and efficient web interfaces.
   <br><br>
-  I love blending creativity with logic — turning complex ideas into clean, user-friendly designs.
+  I love blending creativity with logic turning complex ideas into clean, user-friendly designs.
   <br><br>
   Outside coding, I’m intrigued by <strong>network systems</strong>, <strong>cloud infrastructure</strong>, 
   and <strong>internet connectivity</strong> that make the web possible.
@@ -60,9 +60,17 @@
 
 ## How to Reach Me 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fidel-adar)  
-[![GitHub](https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github)](https://github.com/ad4rtech)  
-[![Gmail](https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:fideladar.ogw@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fidel-adar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ad4rtech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:fideladar.ogw@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 

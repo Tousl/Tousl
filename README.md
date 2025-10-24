@@ -6,9 +6,25 @@
 </h3>
 
 
-<p align="center">
-  <img src="Linkedin-banner.jpg" alt="Banner Image" width="80%" style="border-radius: 10px;" />
-</p>
+<table align="center">
+<tr>
+  <td width="55%" align="center">
+    <img src="Linkedin-banner.jpg" alt="Banner Image" width="85%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  </td>
+  <td width="45%" align="left" valign="middle">
+
+  <h3>🌱 Currently Learning</h3>
+  <p><strong>Tailwind CSS</strong>, <strong>SASS/SCSS</strong>, <strong>TypeScript</strong></p>
+
+  <h3>🔭 Working On</h3>
+  <p><strong>Airbnb Clone Project</strong></p>
+
+  <h3>🌍 Languages</h3>
+  <p><strong>English</strong> & <strong>Kiswahili</strong></p>
+
+  </td>
+</tr>
+</table>
 
 
 ---

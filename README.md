@@ -13,10 +13,12 @@
   </td>
   <td width="45%" align="left" valign="middle">
 
-- 🌱 Currently learning: **TailWind CSS,SASS/SCSS,TypeScript**
-- 🔭 Working on: **AirBnb Clone Project**
-- 🌍 Languages: **English & Kiswahili**
-- 📫 How to reach me: **adarfidel.ogw@gmail.com**
+### 🌟 Quick Overview
+
+🌱 **Currently Learning:** Tailwind CSS, SASS/SCSS, and TypeScript  
+🔭 **Current Project:** Building an Airbnb Clone Application to enhance my frontend development skills  
+🌍 **Languages:** English and Kiswahili  
+📫 **Contact:** [adarfidel.ogw@gmail.com](mailto:adarfidel.ogw@gmail.com)
 
   </td>
 </tr>

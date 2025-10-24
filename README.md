@@ -1,4 +1,10 @@
-# 👨‍💻 Fidel Adar
+<h1 align="center">Hi 👋, I'm Fidel Adar</h1>
+<h3 align="center">
+  <a href="https://github.com/joshmadakor1" target="_blank">A Front-End Developer 🧑‍💻</a> 
+  and 
+  <a href="https://www.linkedin.com/in/joshmadakor" target="_blank">Network Administration Enthusiast 🚠</a>
+</h3>
+
 
 ![Banner Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80)
 

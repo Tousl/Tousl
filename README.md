@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fidel Adar</h1>
 <h3 align="center">
-  <a href="https://github.com/joshmadakor1" target="_blank">A Front-End Developer 🧑‍💻</a> 
+  <a href="http://github.com/ad4rtech" target="_blank">A Front-End Developer 🧑‍💻</a> 
   and 
-  <a href="https://www.linkedin.com/in/joshmadakor" target="_blank">Network Administration Enthusiast 🚠</a>
+  <a href="www.linkedin.com/in/fidel-adar" target="_blank">Network Administration Enthusiast 🚠</a>
 </h3>
 
 
-![Banner Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80)
+![Banner Image](https://www.pinterest.com/pin/108930884731643766/)
 
 ---
 
@@ -34,7 +34,7 @@ I’m continuously learning, experimenting, and striving to become a better deve
 
 ## How to Reach Me 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fideladar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/fidel-adar)  
 [![GitHub](https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github)](https://github.com/ad4rtech)  
 [![Gmail](https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:fideladar@gmail.com)
 

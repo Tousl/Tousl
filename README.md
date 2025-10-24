@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="Linkedin-banner.jpg" alt="Banner Image" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="Linkedin-banner.jpg" alt="Banner Image" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 

@@ -194,3 +194,8 @@ I share insights on **web development** and **networking fundamentals** to inspi
 ---
 
 ⭐ **“Code. Connect. Create.”** — Fidel Adar
+
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adarfidel.ogw)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@adarfidel.ogw)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adarfidel.ogw)
+

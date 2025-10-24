@@ -37,12 +37,14 @@
 
 </td>
 <td width="70%">
-
 Hi there! 👋 I’m **Fidel Adar**, a **Junior Frontend Developer** and **Network Administration Enthusiast** who’s passionate about building beautiful, responsive, and efficient web interfaces.  
-I love blending creativity with logic turning complex ideas into clean, user-friendly designs. 
+<br>
+I love blending creativity with logic — turning complex ideas into clean, user-friendly designs.  
 <br>
 Outside coding, I’m intrigued by **network systems**, **cloud infrastructure**, and **internet connectivity** that make the web possible.  
+<br>
 I’m continuously learning, experimenting, and striving to become a better developer every day. 🚀
+
 
 </td>
 </tr>
